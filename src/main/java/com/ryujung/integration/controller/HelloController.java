@@ -1,4 +1,4 @@
-package com.ryujung.intergration.controller;
+package com.ryujung.integration.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

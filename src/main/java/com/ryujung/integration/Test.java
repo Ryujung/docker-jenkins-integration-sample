@@ -1,4 +1,4 @@
-package com.ryujung.intergration;
+package com.ryujung.integration;
 
 public class Test {
 
