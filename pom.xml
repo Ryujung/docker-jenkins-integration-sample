@@ -28,6 +28,7 @@
     <build>
         <finalName>docker-jenkins-integration-sample</finalName>
 
+        <!-- repackage all class and dependency as a jar file -->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

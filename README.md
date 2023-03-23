@@ -1,0 +1,2 @@
+# Docker与Jenkins整合Demo
+这是一个简单的Maven构建的demo，用于实现Docker与Jenkins的容器化的持续继承、持续部署的项目。
